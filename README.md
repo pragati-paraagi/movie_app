@@ -1,16 +1,9 @@
-# movie_assignment
+This Movie Management App is a Flutter-based application designed for seamless browsing and searching of movies. Users can view detailed information for each movie. The app's UI is heavily inspired by Netflix, offering a sleek, modern experience for users.
 
-A new Flutter project.
+The app integrates state management using the Provider package, which ensures efficient handling of data across different screens. Additionally, it utilizes a movie API to fetch real-time data, allowing users to stay updated with the latest movies and related details.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# FEATURES
+1) State Management with Provider
+2) API Integration
+3) Netflix-inspired UI
+4) Movie Search
